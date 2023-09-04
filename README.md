@@ -2,7 +2,7 @@
 - 
 - I’m interested in Databases, Digital Transformation, IIOT, Automation
 - 
-- I'm currently learning Python
+- I'm currently learning Python and SQL.
 - 
 - Reach me at codypwitham@gmail.com
 
